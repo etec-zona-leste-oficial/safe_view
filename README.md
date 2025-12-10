@@ -87,10 +87,10 @@ Após concluir os passos acima, configure:
 
 👥 Integrantes do Grupo
 
-* Ester Rodrigues Soares
-* Gabrielly Nascimento Bento
-* Gustavo Henrique Ribeiro da Silva
-* Jhonata Alves do Nascimento
+* Ester Rodrigues Soares - https://github.com/EsterRS7
+* Gabrielly Nascimento Bento - https://github.com/Gabr1ell1
+* Gustavo Henrique Ribeiro da Silva - https://github.com/Guzhie
+* Jhonata Alves do Nascimento - https://github.com/JHOW-JHOW
 
 👥 Equipe SafeView
 
@@ -98,6 +98,6 @@ Após concluir os passos acima, configure:
 
 
 
-
+⚠️ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
 
 
