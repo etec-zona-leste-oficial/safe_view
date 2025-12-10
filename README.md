@@ -23,7 +23,7 @@ Software & Ferramentas
 Realizamos uma pesquisa de campo e ao conversar com motoristas e ver a rotina real, percebemos ainda mais essa dificuldade. Esses relatos mostraram que o problema é constante e afeta tanto motoristas experientes quanto iniciantes, reforçando ainda mais a necessidade de uma solução prática e acessível.
 Se você já passou por algo parecido, compartilhe sua experiência no nosso formulário: 🔗https://forms.gle/WmKFNv2wfDB3YCT16
 
-# ▶️ Como Executar o Projeto
+# ▶️ Como Executar o Projeto 
 1. Requisitos
 
 Antes de iniciar, certifique-se de que seu ambiente possui:
@@ -81,16 +81,18 @@ Após concluir os passos acima, configure:
 - Integração com sensores
 - Comunicação com módulos ESP32 / ESP32-CAM
 - Módulo Raspberry Pi
+  
+<!-- ADD SOBRE O IOT (É BASICAMENTE UM RESUMO DA DOCUMENTAÇÃO DOS COMPONENTES ELETRONICOS SÓ QUE AGORA PARA FAZE-LO FUNCIONAR INTEGRADO COM O APP) !-->
 
 # 📄 Licenciamento e creditamento
 
 
 👥 Integrantes do Grupo
 
-* Ester Rodrigues Soares
-* Gabrielly Nascimento Bento
-* Gustavo Henrique Ribeiro da Silva
-* Jhonata Alves do Nascimento
+* Ester Rodrigues Soares - https://github.com/EsterRS7
+* Gabrielly Nascimento Bento - https://github.com/Gabr1ell1
+* Gustavo Henrique Ribeiro da Silva - https://github.com/Guzhie
+* Jhonata Alves do Nascimento - https://github.com/JHOW-JHOW
 
 👥 Equipe SafeView
 
@@ -98,6 +100,8 @@ Após concluir os passos acima, configure:
 
 
 
+# ⚠️ Notas Técnicas
+A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
 
 
 
