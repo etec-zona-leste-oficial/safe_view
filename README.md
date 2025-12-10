@@ -1,5 +1,4 @@
 # Projeto de Conclusão de Curso | Sistema IoT para diminuir os impactos de Pontos Cegos
-🎯 Objetivo do Projeto
 - Desenvolver um sistema IoT capaz de auxiliar motoristas na identificação dos pontos cegos do veículo, aumentando a segurança e percepção durante a condução.
 
 # 🛠️ Tecnologias Utilizadas
@@ -89,4 +88,5 @@ Licenciamento e creditamento
 
 👥 Equipe
 ![Foto dos integrantes](https://github.com/user-attachments/assets/b33a6bf4-bc0c-4c46-b57b-7e503d09bbec)
+
 
