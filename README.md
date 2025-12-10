@@ -22,61 +22,82 @@ Realizamos uma pesquisa de campo e ao conversar com motoristas e ver a rotina re
 Se você já passou por algo parecido, compartilhe sua experiência no nosso formulário: 🔗https://forms.gle/WmKFNv2wfDB3YCT16
 
 # ▶️ Como Executar o Projeto
+1. Requisitos
 
-- Clone este repositório
-- Instale as dependências necessárias
- # 🔧 Requisitos
-- Node.js 20 (use nvm use 20.19.5)
+Antes de iniciar, certifique-se de que seu ambiente possui:
+
+- Node.js 20 (recomendado: nvm use 20.19.5)
+- npm 10+
 - Java 17+
 - Expo SDK 54
-- npm 10+
+- NVM instalado (para gerenciar versões do Node)
 
-# Ao iniciar um projeto 
-- node -v (Verifique a versão do node)
-- npm -v (Verifique a versão do npm)
-- Vá no arquivo package.json e verifique "expo":
-- o Expo Go continua recebendo pequenas atualizações internas (tipo 54.0.6, 54.0.20 etc). Porém, existe uma forma de fazer ele atualizar sozinho quando continuar dentro do mesmo SDK
-- npm update expo
+Ambiente configurado para:
 
-Se quiser garantir que tudo fique atualizado e compatível:
-Atualize o Expo CLI: npm install -g expo
-Dentro do projeto:
+- Firebase
+- Sensores e módulos ESP32 / ESP32-CAM
+- Raspberry Pi
+
+2. Verificações Iniciais
+
+Antes de rodar o projeto:
+
+2.1 Verifique as versões instaladas
+- node -v
+- npm -v
+
+2.2 Confirme a versão do Expo
+No arquivo package.json, verifique se a versão está dentro do SDK 54.
+
+⚠️ Observação:
+Atualizações internas do Expo Go (ex.: 54.0.6, 54.0.20) continuam compatíveis enquanto estiverem no mesmo SDK.
+
+2.3 (Opcional) Atualizar Expo para evitar conflitos
+- npm install -g expo
 - npm update expo
 - npx expo start -c
-
-Se tudo estiver de acordo com o requisitos siga para:
-  1. Instalar dependências
-npm install
-
-  2. Instalar pacotes Expo
-npx expo install
-
-  3. Rodar o app com cache limpo
-npx expo start -c
-
-# Em caso do node estar na versão mais recente 22 (o expo ainda não é bom para essa versão) mude para 20
-Caso ainda não tenha crie um arquivos chamado .nvmrc (força o projeto a usar uma versão específica de Node) 
-- Coloque no arquivo a versão que é para ser usada: "20"
-- No prompt: "nvm use" (se der erro é porque o nvm ainda não foi instalado) 
-- instale: https://github.com/coreybutler/nvm-windows/releases
-- Apague e reinstale os arquivos: "node_modules", "package-lock.json"
-E depois tente de novo.
-
-# Em caso de projeto desatualizado:
-Instale o SDK 54
-- npx expo install expo@~54.0.0
-- npx expo install react-native@latest @expo/metro-runtime@latest
-- Coloque a versão atual no package.json
-- Remove-Item -Recurse -Force node_modules, package-lock.json
-- npm cache clean --force
-- npm install
   
-- Configure o ambiente (Firebase, sensores e módulos ESP32)
-- Execute o projeto de acordo com os guias de cada módulo (mobile, backend e hardware)
+3. Executando o Projeto
+3.1 Clonar o repositório
+- git clone <URL_DO_REPOSITORIO>
+
+3.2 Instalar dependências
+- npm install
+
+3.3 Instalar pacotes Expo
+- npx expo install
+
+3.4 Executar o app (cache limpo)
+- npx expo start -c
+
+4. Ajustando Node.js (em caso de instalação automática da versão 22)
+
+O Expo ainda não oferece suporte total ao Node 22. Caso seu sistema atualize automaticamente, siga os passos:
+
+4.1 Criar arquivo .nvmrc
+
+Na raiz do projeto, crie um arquivo chamado .nvmrc contendo: 20
+
+4.2 Forçar uso da versão correta
+- nvm use
+
+Reinstalar dependências
+- rm -rf node_modules package-lock.json
+- npm install
+
+Se ocorrer erro, instale o NVM para Windows:
+https://github.com/coreybutler/nvm-windows/releases
 
 
+6. Configurações Complementares
 
-Licenciamento e creditamento
+Após concluir os passos acima, configure:
+
+- Integração com sensores
+- Comunicação com módulos ESP32 / ESP32-CAM
+- Módulo Raspberry Pi
+
+# 📄 Licenciamento e creditamento
 
 
 👥 Integrantes do Grupo
@@ -87,6 +108,8 @@ Licenciamento e creditamento
 * Jhonata Alves do Nascimento
 
 👥 Equipe
+
 ![Foto dos integrantes](https://github.com/user-attachments/assets/b33a6bf4-bc0c-4c46-b57b-7e503d09bbec)
+
 
 
