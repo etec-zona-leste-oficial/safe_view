@@ -4,6 +4,7 @@
 # 🛠️ Tecnologias Utilizadas
 Hardware
 
+- Sensores Ultrassônicos
 - ESP32 / ESP32-CAM
 - Raspberry Pi
 
@@ -16,6 +17,7 @@ Software & Ferramentas
 - Firebase
 - Figma
 - UML
+
 
 # 🤝Como contribuir
 Realizamos uma pesquisa de campo e ao conversar com motoristas e ver a rotina real, percebemos ainda mais essa dificuldade. Esses relatos mostraram que o problema é constante e afeta tanto motoristas experientes quanto iniciantes, reforçando ainda mais a necessidade de uma solução prática e acessível.
@@ -45,20 +47,12 @@ Antes de rodar o projeto:
 - node -v
 - npm -v
 
-2.1 Confirme a versão do Expo
-No arquivo package.json, verifique se a versão está dentro do SDK 54.
-
-⚠️Observação:
-
-Atualizações internas do Expo Go (ex.: 54.0.6, 54.0.20) continuam compatíveis enquanto estiverem no mesmo SDK.
-
-2.2 (Opcional) Atualizar Expo para evitar conflitos
+(Opcional) Atualizar Expo para evitar conflitos
 - npm install -g expo
 - npm update expo
 - npx expo start -c
   
 3. Executando o Projeto
-3.1 Clonar o repositório
 - git clone <URL_DO_REPOSITORIO>
 - npm install
 - npx expo install
@@ -103,6 +97,7 @@ Após concluir os passos acima, configure:
 👥 Equipe
 
 ![Foto dos integrantes](https://github.com/user-attachments/assets/b33a6bf4-bc0c-4c46-b57b-7e503d09bbec)
+
 
 
 
