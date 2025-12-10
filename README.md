@@ -58,11 +58,9 @@ Antes de rodar o projeto:
 - npx expo install
 - npx expo start -c
 
-4. Ajustando Node.js (em caso de instalação automática da versão 22)
+4. Criar arquivo .nvmrc
 
 O Expo ainda não oferece suporte total ao Node 22. Caso seu sistema atualize automaticamente, siga os passos:
-
-4. Criar arquivo .nvmrc
 
 Na raiz do projeto, crie um arquivo chamado .nvmrc contendo: 20
 Forçar uso da versão correta
@@ -94,9 +92,10 @@ Após concluir os passos acima, configure:
 * Gustavo Henrique Ribeiro da Silva
 * Jhonata Alves do Nascimento
 
-👥 Equipe
+👥 Equipe SafeView
 
 ![Foto dos integrantes](https://github.com/user-attachments/assets/b33a6bf4-bc0c-4c46-b57b-7e503d09bbec)
+
 
 
 
