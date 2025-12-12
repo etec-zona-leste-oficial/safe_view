@@ -4,6 +4,12 @@
 
 - Temos como alvo o âmbito do setor de transportes, marcado por demandas crescentes e condições desafiadoras, buscamos atingir empresas de pequeno porte e motoristas autônomosque priorizam sua segurança e a de terceiros.
 
+<div align="center">
+<img width="500" height="500" alt="2" src="https://github.com/user-attachments/assets/95e20207-5433-4f7f-bb5c-783fdb92dce5" />
+</div>
+ <p>Lembre-se: SafeView - <Strong>revelando o que os olhos não veem</Strong></p>
+
+
 # 🛠️ Tecnologias Utilizadas
 Hardware
 
@@ -20,13 +26,13 @@ Software & Ferramentas
 - Firebase
 - Figma
 - UML
+<br>
 
-
-# 🤝Como contribuir
+## 🤝Como contribuir
 Realizamos uma pesquisa de campo e ao conversar com motoristas e ver a rotina real, percebemos ainda mais essa dificuldade. Esses relatos mostraram que o problema é constante e afeta tanto motoristas experientes quanto iniciantes, reforçando ainda mais a necessidade de uma solução prática e acessível.
 Se você já passou por algo parecido, compartilhe sua experiência no nosso formulário: 🔗https://forms.gle/WmKFNv2wfDB3YCT16
 
-# ▶️ Como Executar o Projeto 
+## ▶️ Como Executar o Projeto ?
 1. Requisitos
 
 Antes de iniciar, certifique-se de que seu ambiente possui:
@@ -117,6 +123,7 @@ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é 
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
+
 
 
 
