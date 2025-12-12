@@ -1,5 +1,8 @@
 # Projeto de Conclusão de Curso | Sistema IoT para diminuir os impactos de Pontos Cegos
-- Desenvolver um sistema IoT capaz de auxiliar motoristas na identificação dos pontos cegos do veículo, aumentando a segurança e percepção durante a condução.
+ 
+- Temos como objetivo geral desenvolver e implementar um dispositivo IoT constituído por câmeras e sensores, integrado a um aplicativo capaz de transmitir os dados ao motorista, permitindo o monitoramento acerca do veículo.
+
+- Temos como alvo o âmbito do setor de transportes, marcado por demandas crescentes e condições desafiadoras, buscamos atingir empresas de pequeno porte e motoristas autônomosque priorizam sua segurança e a de terceiros.
 
 # 🛠️ Tecnologias Utilizadas
 Hardware
@@ -102,6 +105,7 @@ Após concluir os passos acima, configure:
 
 # ⚠️ Notas Técnicas
 A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
+
 
 
 
