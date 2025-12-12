@@ -94,7 +94,7 @@ Após concluir os passos acima, configure:
 <div align="center">
 <img width="500" height="862" alt="image" src="https://github.com/user-attachments/assets/7e5a7403-5310-46b7-bc09-ab3451b2d384" />
 </div>
-
+<br>
 
 [![Jhonata Alves do Nascimento](https://img.shields.io/badge/Jhonata_Alves_do_Nascimento-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a)](https://github.com/JHOW-JHOW)
 [![Ester Rodrigues Soares](https://img.shields.io/badge/Ester_Rodrigues_Soares-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a)](https://github.com/EsterRS7)
@@ -117,6 +117,7 @@ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é 
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
+
 
 
 
