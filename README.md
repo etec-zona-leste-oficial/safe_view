@@ -94,7 +94,7 @@ Após concluir os passos acima, configure:
 
 <a href="https://github.com/EsterRS7">
   <img src="https://img.shields.io/badge/Ester_Rodrigues_Soares-0d1b2a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAB" height="140">
-  <br>
+  <br><br>
   <img src="https://github.com/EsterRS7.png" width="120" style="border-radius:50%;">
 </a>
 
@@ -133,6 +133,7 @@ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é 
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
+
 
 
 
