@@ -91,12 +91,17 @@ Após concluir os passos acima, configure:
 
 👥 Integrantes do Grupo
 
+<img width="1146" height="862" alt="image" src="https://github.com/user-attachments/assets/7e5a7403-5310-46b7-bc09-ab3451b2d384" />
+
+[![Jhonata Alves do Nascimento](https://img.shields.io/badge/Jhonata_Alves_do_Nascimento-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a)](https://github.com/JHOW-JHOW)
 [![Ester Rodrigues Soares](https://img.shields.io/badge/Ester_Rodrigues_Soares-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a)](https://github.com/EsterRS7)
 [![Gabrielly Nascimento Bento](https://img.shields.io/badge/Gabrielly_Nascimento_Bento-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a)](https://github.com/Gabr1ell1)
 [![Gustavo Henrique Ribeiro da Silva](https://img.shields.io/badge/Gustavo_Henrique_Ribeiro_da_Silva-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a)](https://github.com/Guzhie)
-[![Jhonata Alves do Nascimento](https://img.shields.io/badge/Jhonata_Alves_do_Nascimento-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a)](https://github.com/JHOW-JHOW)
 
 
+
+> [!IMPORTANT]
+> A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
 
 <!--# ⚠️ Notas Técnicas
 A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
@@ -107,11 +112,9 @@ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
+
 
 
 
