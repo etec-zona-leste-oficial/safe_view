@@ -92,6 +92,8 @@ Após concluir os passos acima, configure:
 👥 Integrantes do Grupo
 <div align="center" style=" display: flex; gap: 25px; justify-content: center; flex-wrap: wrap; "> <div style=" background: #0a192f; padding: 20px; border-radius: 12px; width: 170px; text-align: center; "> <a href="https://github.com/EsterRS7"> <img src="https://github.com/EsterRS7.png" width="120" style="border-radius: 50%;"> <div style="margin-top: 12px; color: #e6f1ff; font-weight: 600;">Ester Rodrigues Soares</div> </a> </div> <div style=" background: #0a192f; padding: 20px; border-radius: 12px; width: 170px; text-align: center; "> <a href="https://github.com/Gabr1ell1"> <img src="https://github.com/Gabr1ell1.png" width="120" style="border-radius: 50%;"> <div style="margin-top: 12px; color: #e6f1ff; font-weight: 600;">Gabrielly Nascimento Bento</div> </a> </div> <div style=" background: #0a192f; padding: 20px; border-radius: 12px; width: 170px; text-align: center; "> <a href="https://github.com/Guzhie"> <img src="https://github.com/Guzhie.png" width="120" style="border-radius: 50%;"> <div style="margin-top: 12px; color: #e6f1ff; font-weight: 600;">Gustavo Henrique Ribeiro da Silva</div> </a> </div> <div style=" background: #0a192f; padding: 20px; border-radius: 12px; width: 170px; text-align: center; "> <a href="https://github.com/JHOW-JHOW"> <img src="https://github.com/JHOW-JHOW.png" width="120" style="border-radius: 50%;"> <div style="margin-top: 12px; color: #e6f1ff; font-weight: 600;">Jhonata Alves do Nascimento</div> </a> </div> </div>
 
+https://img.shields.io/opencollective/tier/:collective/:tierId
+
 <!--# ⚠️ Notas Técnicas
 A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
 -->
@@ -107,8 +109,7 @@ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+
 
 
 
