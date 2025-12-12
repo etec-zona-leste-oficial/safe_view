@@ -29,11 +29,13 @@ Software & Ferramentas
 - UML
 
 <br>
-## 🤝Como contribuir
+
+#🤝 Como contribuir
 Realizamos uma pesquisa de campo e ao conversar com motoristas e ver a rotina real, percebemos ainda mais essa dificuldade. Esses relatos mostraram que o problema é constante e afeta tanto motoristas experientes quanto iniciantes, reforçando ainda mais a necessidade de uma solução prática e acessível.
 Se você já passou por algo parecido, compartilhe sua experiência no nosso formulário: 🔗https://forms.gle/WmKFNv2wfDB3YCT16
 
 <br><br>
+
 ## ▶️ Como Executar o Projeto ?
 1. Requisitos
 
@@ -125,6 +127,7 @@ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é 
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
+
 
 
 
