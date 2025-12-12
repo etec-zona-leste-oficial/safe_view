@@ -90,34 +90,25 @@ Após concluir os passos acima, configure:
 # 📄 Licenciamento e creditamento
 
 👥 Integrantes do Grupo
-<p align="center">
-
 <a href="https://github.com/EsterRS7">
-  <img src="https://img.shields.io/badge/Ester_Rodrigues_Soares-0d1b2a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAB" height="140">
-  <br><br>
-  <img src="https://github.com/EsterRS7.png" width="120" style="border-radius:50%;">
+  <img src="https://github.com/EsterRS7.png" width="120" style="border-radius:50%;"><br>
+  <img src="https://img.shields.io/badge/Ester_Rodrigues_Soares-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a">
 </a>
 
 <a href="https://github.com/Gabr1ell1">
-  <img src="https://img.shields.io/badge/Gabrielly_Nascimento_Bento-0d1b2a?style=for-the-badge" height="140">
-  <br>
-  <img src="https://github.com/Gabr1ell1.png" width="120" style="border-radius:50%;">
+  <img src="https://github.com/Gabr1ell1.png" width="120" style="border-radius:50%;"><br>
+  <img src="https://img.shields.io/badge/Gabrielly_Nascimento_Bento-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a">
 </a>
 
 <a href="https://github.com/Guzhie">
-  <img src="https://img.shields.io/badge/Gustavo_Henrique_Ribeiro_da_Silva-0d1b2a?style=for-the-badge" height="140">
-  <br>
-  <img src="https://github.com/Guzhie.png" width="120" style="border-radius:50%;">
+  <img src="https://github.com/Guzhie.png" width="120" style="border-radius:50%;"><br>
+  <img src="https://img.shields.io/badge/Gustavo_Henrique_Ribeiro_da_Silva-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a">
 </a>
 
 <a href="https://github.com/JHOW-JHOW">
-  <img src="https://img.shields.io/badge/Jhonata_Alves_do_Nascimento-0d1b2a?style=for-the-badge" height="140">
-  <br>
-  <img src="https://github.com/JHOW-JHOW.png" width="120" style="border-radius:50%;">
+  <img src="https://github.com/JHOW-JHOW.png" width="120" style="border-radius:50%;"><br>
+  <img src="https://img.shields.io/badge/Jhonata_Alves_do_Nascimento-0d1b2a?style=for-the-badge&labelColor=004b8d&color=0d1b2a">
 </a>
-
-</p>
-
 
 <!--# ⚠️ Notas Técnicas
 A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
@@ -133,6 +124,7 @@ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é 
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
+
 
 
 
