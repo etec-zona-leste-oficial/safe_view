@@ -89,13 +89,18 @@ Após concluir os passos acima, configure:
 
 # 📄 Licenciamento e creditamento
 
+Ester Rodrigues Soares
+<img src="https://github.com/EsterRS7.png" width="90" style="border-radius:50%">
 
-👥 Integrantes do Grupo
+Gabrielly Nascimento Bento
+<img src="https://github.com/Gabr1ell1.png" width="90" style="border-radius:50%">
 
-* Ester Rodrigues Soares - https://github.com/EsterRS7
-* Gabrielly Nascimento Bento - https://github.com/Gabr1ell1
-* Gustavo Henrique Ribeiro da Silva - https://github.com/Guzhie
-* Jhonata Alves do Nascimento - https://github.com/JHOW-JHOW
+Gustavo Henrique Ribeiro da Silva
+<img src="https://github.com/Guzhie.png" width="90" style="border-radius:50%">
+
+Jhonata Alves do Nascimento
+<img src="https://github.com/JHOW-JHOW.png" width="90" style="border-radius:50%">
+
 
 👥 Equipe SafeView
 
@@ -105,6 +110,7 @@ Após concluir os passos acima, configure:
 
 # ⚠️ Notas Técnicas
 A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
+
 
 
 
