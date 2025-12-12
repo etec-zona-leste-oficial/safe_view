@@ -4,9 +4,9 @@
 
 🧑‍🔧 Temos como alvo o âmbito do setor de transportes, marcado por demandas crescentes e condições desafiadoras, buscamos atingir empresas de pequeno porte e motoristas autônomosque priorizam sua segurança e a de terceiros.
 
+<div align="center">
  <p>Lembre-se: SafeView - <Strong>revelando o que os olhos não veem</Strong></p>
 
-<div align="center">
 <img width="250" height="500" alt="2" src="https://github.com/user-attachments/assets/95e20207-5433-4f7f-bb5c-783fdb92dce5" />
 </div>
 
@@ -124,6 +124,7 @@ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é 
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
+
 
 
 
