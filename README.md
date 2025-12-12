@@ -90,11 +90,11 @@ Após concluir os passos acima, configure:
 # 📄 Licenciamento e creditamento
 
 👥 Integrantes do Grupo
-<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/EsterRS7"> <img src="https://github.com/EsterRS7.png" width="120" style="border-radius: 50%;"/> <br /> <sub><b>Ester Rodrigues Soares</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Gabr1ell1"> <img src="https://github.com/Gabr1ell1.png" width="120" style="border-radius: 50%;"/> <br /> <sub><b>Gabrielly Nascimento Bento</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Guzhie"> <img src="https://github.com/Guzhie.png" width="120" style="border-radius: 50%;"/> <br /> <sub><b>Gustavo Henrique Ribeiro da Silva</b></sub> </a> </td> <td align="center"> <a href="https://github.com/JHOW-JHOW"> <img src="https://github.com/JHOW-JHOW.png" width="120" style="border-radius: 50%;"/> <br /> <sub><b>Jhonata Alves do Nascimento</b></sub> </a> </td> </tr> </table> </div>
-
+<style> .card { background: #0d1b2a; padding: 18px; border-radius: 16px; width: 160px; transition: 0.25s; box-shadow: 0 0 12px rgba(0,0,0,0.25); } .card:hover { transform: scale(1.07); box-shadow: 0 0 18px rgba(0, 130, 255, 0.5); } .card img { border-radius: 50%; box-shadow: 0 0 10px rgba(255,255,255,0.2); } .card b { color: #e0e6ed; } </style> <div style="display: flex; justify-content: center; gap: 22px; flex-wrap: wrap;"> <div class="card" align="center"> <a href="https://github.com/EsterRS7"> <img src="https://github.com/EsterRS7.png" width="110" /> <br /><br /> <b>Ester Rodrigues Soares</b> </a> </div> <div class="card" align="center"> <a href="https://github.com/Gabr1ell1"> <img src="https://github.com/Gabr1ell1.png" width="110" /> <br /><br /> <b>Gabrielly Nascimento Bento</b> </a> </div> <div class="card" align="center"> <a href="https://github.com/Guzhie"> <img src="https://github.com/Guzhie.png" width="110" /> <br /><br /> <b>Gustavo Henrique Ribeiro da Silva</b> </a> </div> <div class="card" align="center"> <a href="https://github.com/JHOW-JHOW"> <img src="https://github.com/JHOW-JHOW.png" width="110" /> <br /><br /> <b>Jhonata Alves do Nascimento</b> </a> </div> </div>
 
 <!--# ⚠️ Notas Técnicas
 A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
+
 
 
 
