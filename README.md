@@ -2,7 +2,7 @@
  
 🎯 Temos como objetivo geral desenvolver e implementar um dispositivo IoT constituído por câmeras e sensores, integrado a um aplicativo capaz de transmitir os dados ao motorista, permitindo o monitoramento acerca do veículo.
 
-🧑‍🔧 Temos como alvo o âmbito do setor de transportes, marcado por demandas crescentes e condições desafiadoras, buscamos atingir empresas de pequeno porte e motoristas autônomosque priorizam sua segurança e a de terceiros.
+🧑‍🔧 Temos como alvo o âmbito do setor de transportes, marcado por demandas crescentes e condições desafiadoras, buscamos atingir empresas de pequeno porte e motoristas autônomos que priorizam sua segurança e a de terceiros.
 
 <div align="center">
  <p>Lembre-se: SafeView - <Strong>revelando o que os olhos não veem</Strong></p>
@@ -124,6 +124,7 @@ A pasta Application_SafeView não inclui o diretório node_modules, pois ele é 
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
+
 
 
 
