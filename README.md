@@ -89,27 +89,13 @@ Após concluir os passos acima, configure:
 
 # 📄 Licenciamento e creditamento
 
-Ester Rodrigues Soares
-<img src="https://github.com/EsterRS7.png" width="90" style="border-radius:50%">
-
-Gabrielly Nascimento Bento
-<img src="https://github.com/Gabr1ell1.png" width="90" style="border-radius:50%">
-
-Gustavo Henrique Ribeiro da Silva
-<img src="https://github.com/Guzhie.png" width="90" style="border-radius:50%">
-
-Jhonata Alves do Nascimento
-<img src="https://github.com/JHOW-JHOW.png" width="90" style="border-radius:50%">
+👥 Integrantes do Grupo
+<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/EsterRS7"> <img src="https://github.com/EsterRS7.png" width="120" style="border-radius: 50%;"/> <br /> <sub><b>Ester Rodrigues Soares</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Gabr1ell1"> <img src="https://github.com/Gabr1ell1.png" width="120" style="border-radius: 50%;"/> <br /> <sub><b>Gabrielly Nascimento Bento</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Guzhie"> <img src="https://github.com/Guzhie.png" width="120" style="border-radius: 50%;"/> <br /> <sub><b>Gustavo Henrique Ribeiro da Silva</b></sub> </a> </td> <td align="center"> <a href="https://github.com/JHOW-JHOW"> <img src="https://github.com/JHOW-JHOW.png" width="120" style="border-radius: 50%;"/> <br /> <sub><b>Jhonata Alves do Nascimento</b></sub> </a> </td> </tr> </table> </div>
 
 
-👥 Equipe SafeView
-
-![Foto dos integrantes](https://github.com/user-attachments/assets/b33a6bf4-bc0c-4c46-b57b-7e503d09bbec)
-
-
-
-# ⚠️ Notas Técnicas
+<!--# ⚠️ Notas Técnicas
 A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
+
 
 
 
