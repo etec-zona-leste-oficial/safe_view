@@ -90,32 +90,11 @@ Após concluir os passos acima, configure:
 # 📄 Licenciamento e creditamento
 
 👥 Integrantes do Grupo
-<td align="center" style="padding: 18px; border-radius: 16px; background: #f7f7f7; box-shadow: 0 0 12px rgba(0,0,0,0.08);">
-  <a href="https://github.com/Gabr1ell1">
-    <img src="https://github.com/Gabr1ell1.png" width="120" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
-    <br /><br />
-    <sub><b>Gabrielly Nascimento Bento</b></sub>
-  </a>
-</td>
-
-<td align="center" style="padding: 18px; border-radius: 16px; background: #f7f7f7; box-shadow: 0 0 12px rgba(0,0,0,0.08);">
-  <a href="https://github.com/Guzhie">
-    <img src="https://github.com/Guzhie.png" width="120" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
-    <br /><br />
-    <sub><b>Gustavo Henrique Ribeiro da Silva</b></sub>
-  </a>
-</td>
-
-<td align="center" style="padding: 18px; border-radius: 16px; background: #f7f7f7; box-shadow: 0 0 12px rgba(0,0,0,0.08);">
-  <a href="https://github.com/JHOW-JHOW">
-    <img src="https://github.com/JHOW-JHOW.png" width="120" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
-    <br /><br />
-    <sub><b>Jhonata Alves do Nascimento</b></sub>
-  </a>
-</td>
+<table> <tr> <td align="center" style=" background:#0d1b2a; padding:20px; border-radius:12px; width:160px; border:2px solid #112a45; "> <a href="https://github.com/EsterRS7"> <img src="https://github.com/EsterRS7.png" width="110" style="border-radius:50%;"> <br><br> <b style="color:white;">Ester Rodrigues Soares</b> </a> </td> <td align="center" style=" background:#0d1b2a; padding:20px; border-radius:12px; width:160px; border:2px solid #112a45; "> <a href="https://github.com/Gabr1ell1"> <img src="https://github.com/Gabr1ell1.png" width="110" style="border-radius:50%;"> <br><br> <b style="color:white;">Gabrielly Nascimento Bento</b> </a> </td> <td align="center" style=" background:#0d1b2a; padding:20px; border-radius:12px; width:160px; border:2px solid #112a45; "> <a href="https://github.com/Guzhie"> <img src="https://github.com/Guzhie.png" width="110" style="border-radius:50%;"> <br><br> <b style="color:white;">Gustavo Henrique Ribeiro da Silva</b> </a> </td> <td align="center" style=" background:#0d1b2a; padding:20px; border-radius:12px; width:160px; border:2px solid #112a45; "> <a href="https://github.com/JHOW-JHOW"> <img src="https://github.com/JHOW-JHOW.png" width="110" style="border-radius:50%;"> <br><br> <b style="color:white;">Jhonata Alves do Nascimento</b> </a> </td> </tr> </table>
 
 <!--# ⚠️ Notas Técnicas
 A pasta Application_SafeView não inclui o diretório node_modules, pois ele é gerado automaticamente e possui tamanho elevado. Para utilizá-la corretamente, é necessário instalar todas as dependências seguindo as instruções fornecidas acima.
+
 
 
 
